@@ -1,6 +1,6 @@
 # Café Sales — Data Cleaning & EDA Practice
 
-## What This Is
+## What This Is 
 A self-practice project to learn:
 - Data cleaning techniques in Pandas
 - Handling missing values, wrong datatypes, dirty strings
